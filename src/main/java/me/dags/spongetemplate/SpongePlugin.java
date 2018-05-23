@@ -1,7 +1,7 @@
 package me.dags.spongetemplate;
 
+import com.google.inject.Inject;
 import java.nio.file.Path;
-import javax.inject.Inject;
 import me.dags.commandbus.CommandBus;
 import me.dags.commandbus.annotation.Command;
 import me.dags.commandbus.annotation.Join;
